@@ -21,5 +21,5 @@ function newCoordinates() {
 
 function yes() {
     let yesText = document.getElementById("yesText");
-    yesText.textContent = "А МОЖЕТ НЕ НАДО А-А-А-А?";
+    yesText.textContent = "УРА-А-А-А БАЛДЕЖ!!!!";
 }
